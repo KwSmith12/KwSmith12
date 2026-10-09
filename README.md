@@ -21,6 +21,9 @@ player performance. Built around fast input on phones and iPads.
 
 Chart-It is in active development. The application source is private.
 
+[Explore the Chart-It product showcase](https://kwsmith12.github.io/chartit-showcase/)
+· [View screenshots on GitHub](https://github.com/KwSmith12/chartit-showcase)
+
 ### Business tools & workflow automation
 
 I also work on web tools that simplify repetitive tasks, organize data, and make
