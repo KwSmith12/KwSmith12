@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kevin Smith — Software builder and baseball coach</title>
+  <desc id="desc">A charcoal banner with blue accents, a baseball field diagram, and Kevin Smith's name.</desc>
+  <rect width="1200" height="300" rx="12" fill="#17191f"/>
+  <path d="M0 270H1200M900 0V300M1000 0V300M1100 0V300" stroke="#282c38"/>
+  <path d="M0 0H460L475 15H0Z" fill="#3455f5"/>
+  <text x="54" y="66" fill="#91a0ff" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE / BASEBALL</text>
+  <text x="50" y="145" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Kevin Smith</text>
+  <text x="54" y="193" fill="#c5c9d4" font-family="Arial,Helvetica,sans-serif" font-size="24">Building better tools for the work—and the game.</text>
+  <text x="54" y="245" fill="#9298ab" font-family="Arial,Helvetica,sans-serif" font-size="16">WEB DEVELOPMENT   ·   WORKFLOW AUTOMATION   ·   COACHING</text>
+  <g transform="translate(1000 154)" fill="none" stroke="#5265b7" stroke-width="2">
+    <path d="M0 96L-93 3Q0-115 93 3Z"/>
+    <path d="M0 96L-48 48L0 0L48 48Z" stroke="#91a0ff"/>
+    <path d="M0 96L-119-23M0 96L119-23" stroke="#343c58"/>
+    <rect x="-5" y="-5" width="10" height="10" fill="#3455f5" stroke="none" transform="rotate(45)"/>
+    <circle cx="0" cy="48" r="5" fill="#91a0ff" stroke="none"/>
+    <path d="M-8 91H8V100L0 107L-8 100Z" fill="#ffffff" stroke="none"/>
+  </g>
+</svg>
